@@ -1,2 +1,2 @@
-int caldet(int matriz[3][3]);
-void calma(int matriz[3][3], int coeficientes[3]);
+float caldet(float matriz[3][3]);
+void calma(float matriz[3][3], float coeficientes[3]);
